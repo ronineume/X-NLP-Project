@@ -98,7 +98,7 @@ for i in range(len(rules)):
         json_response, query_tag, tweets_data
     )
 
-    time.sleep(5)  # Pause for 5 seconds to comply with API rate limits
+    time.sleep(15)  # Pause for 15 seconds to comply with API rate limits
 
     # Check if there is a next page of data to retrieve
     while "next_token" in json_response["meta"]:
@@ -112,7 +112,7 @@ for i in range(len(rules)):
             json_response, query_tag, tweets_data
         )
 
-        time.sleep(5)  # Pause for 5 seconds to comply with API rate limits
+        time.sleep(15)  # Pause for 15 seconds to comply with API rate limits
 
 # Save tweet and user data as a JSON file
 tweets_data.to_json("tweets_data.json", orient="records", lines=True, force_ascii=False)
