@@ -9,6 +9,7 @@ import json
 import time
 import random
 import os
+import pandas as pd
 endpoint_url = "https://api.twitter.com/2/tweets/search/recent"
 
 rules = [
