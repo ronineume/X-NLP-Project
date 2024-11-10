@@ -31,4 +31,4 @@ referenced_tweet_types: enum (retweeted, quoted, replied_to) | Indicates the typ
 
 # References
 https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial \
-[https://developer.x.com/en/docs/x-api/tweets/lookup/api-reference/get-tweets-id](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent)
+[X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent)
