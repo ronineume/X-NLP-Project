@@ -30,6 +30,6 @@ referenced_tweet_types: enum (retweeted, quoted, replied_to) | Indicates the typ
 }
 
 # References
-https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial \
-[X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent)
+[twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
+[X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent)\
 [徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485)
