@@ -7,7 +7,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 |---------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | `edited`                  | interger                   | 0: No edits ; 1: Tweet is edited |
 | `tweets_created_at`       | Y-m-d H:M:S (UTC)        | Creation time of the Tweet.                                                                                                            |
-| `id`                      | string                  | Unique identifier of this Tweet. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
+| `tweet_id`                      | string                  | Unique identifier of this Tweet. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
 | `author_id`              | string                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
 | `text`                    | string                  | The content of the Tweet.                                                                                                              |
 | `retweet_count`          | integer                 | Number of times this Tweet has been Retweeted.                                                                                         |
