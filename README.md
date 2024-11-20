@@ -21,11 +21,11 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `username`       | string        | The Twitter screen name, handle, or alias that this user identifies themselves with. Usernames are unique but subject to change. Typically a maximum of 15 characters long, but some historical accounts may exist with longer names.|
 | `description`                      | string                | The text of this user's profile description (also known as bio), if the user provided one. |
 | `followers_count`              | integer                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
-| `following_count`                    | string                  | The content of the Tweet.                                                                                                              |
+| `following_count`                    | integer                  | The content of the Tweet.                                                                                                              |
 | `tweet_count`          | integer                 | Number of times this Tweet has been Retweeted.                                                                                         |
 | `listed_count`            | integer                 | Number of Replies of this Tweet.                                                                                                        |
 | `user_like_count`             | integer                 | Number of Likes of this Tweet.                                                                                                          |
-| `verified	`          | integer                 | Indicates if this user is a verified Twitter User.                                                                                       |
+| `verified`          | integer                 | Indicates if this user is a verified Twitter User.   1:verified 0:not verified                                                                                    |
 | `user_created_at`            | Y-m-d H:M:S (UTC)            | The UTC datetime that the user account was created on Twitter.                                                                                                        |
 | `location`             | string                 | The location specified in the user's profile, if the user provided one. As this is a freeform value, it may not indicate a valid location, but it may be fuzzily evaluated when performing searches with location queries. |
 
