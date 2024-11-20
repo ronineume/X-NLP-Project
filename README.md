@@ -25,6 +25,9 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `tweet_count`          | integer                 | Number of times this Tweet has been Retweeted.                                                                                         |
 | `listed_count`            | integer                 | Number of Replies of this Tweet.                                                                                                        |
 | `user_like_count`             | integer                 | Number of Likes of this Tweet.                                                                                                          |
+| `verified	`          | integer                 | Indicates if this user is a verified Twitter User.                                                                                       |
+| `user_created_at`            | Y-m-d H:M:S (UTC)            | The UTC datetime that the user account was created on Twitter.                                                                                                        |
+| `location`             | string                 | The location specified in the user's profile, if the user provided one. As this is a freeform value, it may not indicate a valid location, but it may be fuzzily evaluated when performing searches with location queries. |
 
 # References
 [twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
