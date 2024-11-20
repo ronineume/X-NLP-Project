@@ -50,6 +50,4 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 [Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921) \
 [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003)
         
-        
-        
-        /)
+
