@@ -16,7 +16,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `quote_count`            | integer                 | Number of times this Tweet has been Retweeted with a comment (also known as Quote).                                                    |
 | `bookmark_count`         | integer                 | Number of times this Tweet has been bookmarked.                                                                                         |
 | `impression_count`       | integer                 | Number of times this Tweet has been viewed.                                                                                            |
-| `referenced_tweet_types` | interger                    | Indicates the type of relationship between this Tweet and the Tweet returned in the response: retweeted, quoted, or replied_to. 0: Original 1: replied_to 2: quoted 3: 'quoted', 'replied_to'       |
+| `referenced_tweet_types` | integer                    | Indicates the type of relationship between this Tweet and the Tweet returned in the response: retweeted, quoted, or replied_to. 0: Original 1: replied_to 2: quoted 3: 'quoted', 'replied_to'       |
 
 # References
 [twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
