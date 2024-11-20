@@ -21,7 +21,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `username`       | string        | The Twitter screen name, handle, or alias that this user identifies themselves with. Usernames are unique but subject to change. Typically a maximum of 15 characters long, but some historical accounts may exist with longer names.|
 | `description`                      | string                | The text of this user's profile description (also known as bio), if the user provided one. |
 | `followers_count`              | integer                  | The number of followers this account currently has. Under certain conditions of duress, this field will temporarily indicate “0”. |
-| `following_count`                    | integer                  | The content of the Tweet.                                                                                                              |
+| `following_count`                    | integer                  | The number of accounts that the user is following.                                                                                                             |
 | `tweet_count`          | integer                 | The total number of Tweets (including retweets) that the user has posted since they created their account.             |
 | `listed_count`            | integer                 | The number of public lists that this user is a member of.                                                                                                      |
 | `user_like_count`             | integer                 | The number of Tweets this user has liked in the account’s lifetime.                                                                                                          |
