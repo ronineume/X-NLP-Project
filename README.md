@@ -5,10 +5,10 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 # Description of dataset (After Data Clean)
 | Field                     | Type                    | Description                                                                                                                             |
 |---------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| `edited`                  | interger                   | 0: No edits ; 1: Tweet is edited |
+| `edited`                  | integer                   | 0: No edits ; 1: Tweet is edited |
 | `tweets_created_at`       | Y-m-d H:M:S (UTC)        | Creation time of the Tweet.                                                                                                            |
-| `tweet_id`                      | interger                 | Unique identifier of this Tweet. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
-| `author_id`              | interger                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
+| `tweet_id`                      | integer                 | Unique identifier of this Tweet. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
+| `author_id`              | integer                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
 | `text`                    | string                  | The content of the Tweet.                                                                                                              |
 | `retweet_count`          | integer                 | Number of times this Tweet has been Retweeted.                                                                                         |
 | `reply_count`            | integer                 | Number of Replies of this Tweet.                                                                                                        |
