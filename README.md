@@ -17,6 +17,14 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `bookmark_count`         | integer                 | Number of times this Tweet has been bookmarked.                                                                                         |
 | `impression_count`       | integer                 | Number of times this Tweet has been viewed.                                                                                            |
 | `referenced_tweet_types` | integer                    | Indicates the type of relationship between this Tweet and the Tweet returned in the response: retweeted, quoted, or replied_to. 0: Original 1: replied_to 2: quoted 3: 'quoted', 'replied_to'       |
+| `name`                  | string                   | The name of the user, as they’ve defined it on their profile. Not necessarily a person’s name. Typically capped at 50 characters, but subject to change. |
+| `username`       | string        | The Twitter screen name, handle, or alias that this user identifies themselves with. Usernames are unique but subject to change. Typically a maximum of 15 characters long, but some historical accounts may exist with longer names.|
+| `description`                      | string                | The text of this user's profile description (also known as bio), if the user provided one. |
+| `followers_count`              | integer                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
+| `following_count`                    | string                  | The content of the Tweet.                                                                                                              |
+| `tweet_count`          | integer                 | Number of times this Tweet has been Retweeted.                                                                                         |
+| `listed_count`            | integer                 | Number of Replies of this Tweet.                                                                                                        |
+| `user_like_count`             | integer                 | Number of Likes of this Tweet.                                                                                                          |
 
 # References
 [twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
