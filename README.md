@@ -2,6 +2,10 @@
 
 We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 from X (Twitter)
 
+# Guidence
+
+
+
 # Description of dataset (After Data Clean)
 | Field                     | Type                    | Description                                                                                                                             |
 |---------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,6 +32,14 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `verified`          | integer                 | Indicates if this user is a verified Twitter User.   1:verified 0:not verified                                                                                    |
 | `user_created_at`            | Y-m-d H:M:S (UTC)            | The UTC datetime that the user account was created on Twitter.                                                                                                        |
 | `location`             | string                 | The location specified in the user's profile, if the user provided one. As this is a freeform value, it may not indicate a valid location, but it may be fuzzily evaluated when performing searches with location queries. |
+
+# Analysis
+
+
+
+# Result
+
+
 
 # References
 [twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
