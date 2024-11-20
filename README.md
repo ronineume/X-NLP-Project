@@ -2,11 +2,11 @@
 
 We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 from X (Twitter)
 
-# Description of dataset
+# Description of dataset (After Data Clean)
 | Field                     | Type                    | Description                                                                                                                             |
 |---------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| `edit_history_tweet_ids`  | array                   | Unique identifiers indicating all versions of an edited Tweet. For Tweets with no edits, there will be one ID. For Tweets with an edit history, there will be multiple IDs, arranged in ascending order reflecting the order of edit, with the most recent version in the last position of the array. |
-| `created_at`              | date (ISO 8601)        | Creation time of the Tweet.                                                                                                            |
+| `edited`  | interger                   | 0: No edits ; 1: Tweet is edited |
+| `created_at`              | Y-m-d H:M:S (UTC)        | Creation time of the Tweet.                                                                                                            |
 | `id`                      | string                  | Unique identifier of this Tweet. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
 | `author_id`              | string                  | Unique identifier of this user. This is returned as a string in order to avoid complications with languages and tools that cannot handle large integers. |
 | `text`                    | string                  | The content of the Tweet.                                                                                                              |
