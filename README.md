@@ -4,7 +4,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 
 # Guidence
 
-|[Data Scrawling] --> [Data Annotation] \
+|[Data Scrawling](https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md) --> [Data Annotation] \
 |->[Data Clean]
 
 # Description of dataset (After Data Clean)
