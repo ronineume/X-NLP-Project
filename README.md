@@ -51,6 +51,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) \
 [Twitter数据挖掘及其可视化](https://www.hrwhisper.me/twitter-data-mining-and-visualization/) \
 [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html#documentation) \
-[textblob](https://textblob.readthedocs.io/en/dev/)
+[textblob](https://textblob.readthedocs.io/en/dev/) \
+[计算传播学](https://chengjun.github.io/mybook/11-3-textblob.html)
         
 
