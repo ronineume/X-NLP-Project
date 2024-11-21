@@ -48,6 +48,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 [徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485) \
 [llama3 model.py](https://github.com/meta-llama/llama3/blob/main/llama/model.py) \
 [Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921) \
-[Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003)
+[Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) \
+[Twitter数据挖掘及其可视化](https://www.hrwhisper.me/twitter-data-mining-and-visualization/)
         
 
