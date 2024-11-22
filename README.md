@@ -12,6 +12,8 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 # Packges
 TextBlob, Gensim, spaCY
 
+# Data preparation
+
 # Description of dataset (After Data Clean)
 | Field                     | Type                    | Description                                                                                                                             |
 |---------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
