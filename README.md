@@ -1,6 +1,6 @@
 # SDSC3013 Project - CityUHK
 [![Forks](https://img.shields.io/github/forks/ronineume/X-NLP-Project?style=social)](https://github.com/ronineume/X-NLP-Project/fork)
-![Github Stars](https://img.shields.io/github/stars/ronineume/X-NLP-Project?style=flat) 
+[![Stars](https://img.shields.io/github/stars/ronineume/X-NLP-Project?style=social)](https://github.com/ronineume/X-NLP-Project/stargazers)
 [![Ronin's Homepage](https://img.shields.io/badge/Go%20to%20My%20Homepage-blue?style=flat)](https://ronineume.github.io/)
 [![GitHub](https://img.shields.io/badge/Visit%20GitHub%20Profile-blue?style=flat)](https://github.com/ronineume)
 \
