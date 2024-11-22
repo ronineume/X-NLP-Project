@@ -56,6 +56,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 [spaCY](https://spacy.io/) \
 [Topic Modeling using Gensim-LDA in Python](https://medium.com/analytics-vidhya/topic-modeling-using-gensim-lda-in-python-48eaa2344920) \
 [Topic Modeling](https://ethen8181.github.io/machine-learning/clustering/topic_model/LDA.html#Getting-Started) \
-[Sentiment Analysis using BERT Kaggle](https://www.kaggle.com/code/prakharrathi25/sentiment-analysis-using-bert/notebook)
+[Sentiment Analysis using BERT Kaggle](https://www.kaggle.com/code/prakharrathi25/sentiment-analysis-using-bert/notebook) \
+[Google News and Leo Tolstoy: Visualizing Word2Vec Word Embeddings using t-SNE](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d)
         
 
