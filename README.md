@@ -10,7 +10,8 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |--> [Topic Modeling] \
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;|--> [Word2Vec]
 ```mermaid
-    流程图/时序图代码
+ graph LR
+A-->B
 ```
 
 # Packges
