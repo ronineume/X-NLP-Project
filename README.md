@@ -35,8 +35,11 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 | `location`             | string                 | The location specified in the user's profile, if the user provided one. As this is a freeform value, it may not indicate a valid location, but it may be fuzzily evaluated when performing searches with location queries. |
 
 # Analysis
-
-
+Sentiment Analysis \
+Political leanigns Analysis \
+Word2Vec \
+Squential Tagging \
+Topic Modeling
 
 # Result
 
