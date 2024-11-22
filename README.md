@@ -6,8 +6,8 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 
 ```mermaid
  graph LR
-A[Data Scrawling]--> B[Data Annotation] --> C[Data Clean] --> D[Sentiment Analysis and Political Classification]
-A[Data Scrawling]--> E[Data Clean]-->F[language Classification]-->G[Data Tokenization and Normalization]-->H[Sequential Tagging]
+A[Data Scrawling]--> B[Data Annotation] --> C[Text Clean] --> D[Sentiment Analysis and Political Classification]
+A[Data Scrawling]--> E[Data Clean]-->F[Language Classification]-->G[Data Tokenization and Normalization]-->H[Sequential Tagging]
 G[Data Tokenization and Normalization]-->I[Topic Modeling]
 G[Data Tokenization and Normalization]-->J[Word2Vec]
 ```
