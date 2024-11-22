@@ -53,6 +53,7 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html#documentation) \
 [textblob](https://textblob.readthedocs.io/en/dev/) \
 [计算传播学](https://chengjun.github.io/mybook/11-3-textblob.html) \
-[spaCY](https://spacy.io/)
+[spaCY](https://spacy.io/) \
+[LDA](https://medium.com/analytics-vidhya/topic-modeling-using-gensim-lda-in-python-48eaa2344920)
         
 
