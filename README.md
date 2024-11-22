@@ -12,7 +12,7 @@ G[Data Tokenization and Normalization]-->I[Topic Modeling]
 G[Data Tokenization and Normalization]-->J[Word2Vec]
 ```
 [Data Scrawling](https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md)
-# Packges
+# NLP Packges
 TextBlob, Gensim, spaCY
 
 # Data preparation
