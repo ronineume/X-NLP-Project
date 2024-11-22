@@ -9,6 +9,10 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 |--> [Data Clean] --> [Data Classification] --> [Data Tokenization and Normalization] |--> [Sequential Tagging] \
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |--> [Topic Modeling] \
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;|--> [Word2Vec]
+```mermaid
+    流程图/时序图代码
+```
+
 # Packges
 TextBlob, Gensim, spaCY
 
