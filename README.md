@@ -4,15 +4,13 @@ We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 fro
 
 # Guidence
 
-| (https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md)-->  --> [Data Clean] --> [Sentiment Analysis and Political Classification]\
-| \
-|-->  --> [Data Classification] --> [Data Tokenization and Normalization] |--> [Sequential Tagging] \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |--> [Topic Modeling] \
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;|--> [Word2Vec]
+(https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md)
 ```mermaid
  graph LR
 A[Data Scrawling]--> B[Data Annotation] --> C[Data Clean] --> D[Sentiment Analysis and Political Classification]
-A[Data Scrawling]--> E[Data Clean]
+A[Data Scrawling]--> E[Data Clean]-->F[Data Classification]-->G[Data Tokenization and Normalization]-->H[Sequential Tagging]
+G[Data Tokenization and Normalization]-->I[Topic Modeling]
+G[Data Tokenization and Normalization]-->J[Word2Vec]
 ```
 
 # Packges
