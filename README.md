@@ -2,7 +2,7 @@
 [![Forks](https://img.shields.io/github/forks/ronineume/X-NLP-Project?style=social)](https://github.com/ronineume/X-NLP-Project/fork)
 [![Stars](https://img.shields.io/github/stars/ronineume/X-NLP-Project?style=social)](https://github.com/ronineume/X-NLP-Project/stargazers)
 [![Ronin's Homepage](https://img.shields.io/badge/Go%20to%20My%20Homepage-blue?style=flat)](https://ronineume.github.io/)
-[![ronineume](https://img.shields.io/badge/ronineume's%20GitHub-blue?style=flat)](https://github.com/ronineume)
+[![ronineume's GitHub](https://img.shields.io/badge/ronineume's%20GitHub-blue?style=flat)](https://github.com/ronineume)
 \
 We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 from X (Twitter)
 
