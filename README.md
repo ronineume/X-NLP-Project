@@ -1,5 +1,6 @@
 # SDSC3013 Project - CityUHK
-
+![Github Forks](https://img.shields.io/github/forks/ronineume/X-NLP-Project?style=flat)
+![Github Stars](https://img.shields.io/github/stars/ronineume/X-NLP-Project?style=flat)
 We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 from X (Twitter)
 
 # Guidence
