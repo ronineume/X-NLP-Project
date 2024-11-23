@@ -33,11 +33,7 @@ TextBlob, Gensim, spaCY
 | `&times;`    | `×`           |
 | `&divide;`   | `÷`           |
 
-| Pattern                        | Replacement     |
-|-------------------------------|------------------|
-| `#(\w+)`                      | `HASH_\1`        |
-| `@(\w+)`                      | `HNDL_\1`        |
-| `(http\|https\|ftp)://[a-zA-Z0-9\./]+`      | `URL`      |
+
 
 | Emoticon      | Example 1 | Example 2 | Example 3 | Example 4 | Example 5 | Example 6 |
 |---------------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -55,8 +51,11 @@ TextBlob, Gensim, spaCY
 | `PUNC_QUES`       | `?`       | `¿`       |
 | `PUNC_ELLP`       | `...`     | `…`       |
 
-| Pattern                      | Replacement         |
-|------------------------------|---------------------|
+| Pattern                        | Replacement     |
+|-------------------------------|------------------|
+| `#(\w+)`                      | `HASH_\1`        |
+| `@(\w+)`                      | `HNDL_\1`        |
+| `(http\|https\|ftp)://[a-zA-Z0-9\./]+`      | `URL`      |
 | `(.)\1{1,}`                 | `\1\1`              |  # Replace repeated characters with two instances |
 | `[\'“”]`                     | (empty)             |  # Remove single quotes and double quotes        |
 | `strip()`                    | (removes leading/trailing whitespace) |  # Trim whitespace from both ends |
