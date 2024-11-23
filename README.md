@@ -37,7 +37,7 @@ TextBlob, Gensim, spaCY
 |-------------------------------|------------------|
 | `#(\w+)`                      | `HASH_\1`        |
 | `@(\w+)`                      | `HNDL_\1`        |
-| ``(http|https|ftp)://[a-zA-Z0-9\./]+``      | `URL`      |
+| `(http\|https\|ftp)://[a-zA-Z0-9\./]+`      | `URL`      |
 
 | Emoticon      | Example 1 | Example 2 | Example 3 | Example 4 | Example 5 | Example 6 |
 |---------------|-----------|-----------|-----------|-----------|-----------|-----------|
