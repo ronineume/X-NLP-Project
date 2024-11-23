@@ -45,7 +45,7 @@ TextBlob, Gensim, spaCY
 | `EMOT_LAUGH`  | `:-D`     | `:D`      | `XD`      | `XD`      | `xD`      |           |
 | `EMOT_LOVE`   | `<3`      | `:*`      |           |           |           |           |
 | `EMOT_WINK`   | `;-)`     | `;)`      | `;-D`     | `;D`      | `( ;`     | `(-;`     |
-| `EMOT_FROWN`  | `:-(`     | `:(`      | `( `      | `(-:`     |           |           |
+| `EMOT_FROWN`  | `:-(`     | `:(`      |       |      |           |           |
 | `EMOT_CRY`    | `:,( `    | `:'(`     | `:"(`     | `:((`     |           |           |
 
 | Punctuation Symbol | Example 1 | Example 2 |
