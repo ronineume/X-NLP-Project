@@ -64,23 +64,23 @@ Topic Modeling (LDA Model)
 # References
 
 ## Essays
-[Attention Is All You Need] (https://arxiv.org/abs/1706.03762) \
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762) \
 [Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921) \
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) \
-[Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) \
+[Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) 
 
 ## Official Documentations
 [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html#documentation) \
 [spaCY](https://spacy.io/) \
 [textblob](https://textblob.readthedocs.io/en/dev/) \
-[X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent) \
+[X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent) 
 
 ## Github repositories
 [llama3 model.py](https://github.com/meta-llama/llama3/blob/main/llama/model.py) \
-[twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) \
+[twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) 
 
 ## Kaggle
-[Sentiment Analysis using BERT Kaggle](https://www.kaggle.com/code/prakharrathi25/sentiment-analysis-using-bert/notebook) \
+[Sentiment Analysis using BERT Kaggle](https://www.kaggle.com/code/prakharrathi25/sentiment-analysis-using-bert/notebook) 
 
 ## Blogs
 [Google News and Leo Tolstoy: Visualizing Word2Vec Word Embeddings using t-SNE](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d) \
@@ -88,5 +88,5 @@ Topic Modeling (LDA Model)
 [Topic Modeling using Gensim-LDA in Python](https://medium.com/analytics-vidhya/topic-modeling-using-gensim-lda-in-python-48eaa2344920) \
 [Topic Modeling](https://ethen8181.github.io/machine-learning/clustering/topic_model/LDA.html#Getting-Started) \
 [Twitter数据挖掘及其可视化](https://www.hrwhisper.me/twitter-data-mining-and-visualization/) \
-[徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485) \
+[徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485) 
 
