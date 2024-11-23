@@ -41,8 +41,8 @@ TextBlob, Gensim, spaCY
 
 | Emoticon      | Example 1 | Example 2 | Example 3 | Example 4 | Example 5 | Example 6 |
 |---------------|-----------|-----------|-----------|-----------|-----------|-----------|
-| `EMOT_SMILEY` | `:-)`     | `:)`      | `( `      | `(-:`     |           |           |
-| `EMOT_LAUGH`  | `:-D`     | `:D`      | `XD`      | `XD`      | `xD`      |           |
+| `EMOT_SMILEY` | `:-)`     | `:)`      | `(: `      | `(-:`     |           |           |
+| `EMOT_LAUGH`  | `:-D`     | `:D`      | `X-D`      | `XD`      | `xD`      |           |
 | `EMOT_LOVE`   | `<3`      | `:*`      |           |           |           |           |
 | `EMOT_WINK`   | `;-)`     | `;)`      | `;-D`     | `;D`      | `( ;`     | `(-;`     |
 | `EMOT_FROWN`  | `:-(`     | `:(`      |       |      |           |           |
