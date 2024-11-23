@@ -65,13 +65,7 @@ Topic Modeling (LDA Model)
 
 ## Essays
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) \
-[Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921
-        
-        
-        
-        
-        
-        ) \
+[Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921) \
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) \
 [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) 
 
@@ -83,7 +77,7 @@ Topic Modeling (LDA Model)
 
 ## Github repositories
 [llama3 model.py](https://github.com/meta-llama/llama3/blob/main/llama/model.py) \
-[SentimentAnalysis Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter) \
+[Sentiment Analysis Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter) \
 [twitter_api_tutorial](https://github.com/nestauk/dap_medium_articles/tree/dev/twitter_api_tutorial) 
 
 ## Kaggle
