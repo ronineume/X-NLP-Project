@@ -126,5 +126,6 @@ Topic Modeling (LDA Model)
 [Topic Modeling using Gensim-LDA in Python](https://medium.com/analytics-vidhya/topic-modeling-using-gensim-lda-in-python-48eaa2344920) \
 [Topic Modeling](https://ethen8181.github.io/machine-learning/clustering/topic_model/LDA.html#Getting-Started) \
 [Twitter数据挖掘及其可视化](https://www.hrwhisper.me/twitter-data-mining-and-visualization/) \
-[徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485) 
+[徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇](https://zhuanlan.zhihu.com/p/1674261485) \
+[中文NLP词向量词聚类Python原创算法](https://blog.csdn.net/Yellow_python/article/details/108508540)
 
