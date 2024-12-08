@@ -19,7 +19,7 @@ G[Data Tokenization and Normalization]-->J[Word2Vec]
 ```
 [Data Scrawling](https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md)
 # NLP Packges
-TextBlob, Gensim, spaCY
+TextBlob, Gensim, spaCY, Shifterator
 
 # Data preparation
 | HTML Entity  | Replacement   |
