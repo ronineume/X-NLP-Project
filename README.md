@@ -103,13 +103,14 @@ Topic Modeling (LDA Model)
 
 ## Essays
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) \
-[Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921) \
+[Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921 ) \
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) \
 [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) 
 
 ## Official Documentations
 [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html#documentation) \
 [spaCY](https://spacy.io/) \
+[Shifterator](https://shifterator.readthedocs.io/en/latest/) \
 [textblob](https://textblob.readthedocs.io/en/dev/) \
 [X API Usage](https://developer.x.com/en/docs/x-api/tweets/search/api-reference/get-tweets-search-recent) 
 
