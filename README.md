@@ -105,6 +105,7 @@ Topic Modeling (LDA Model)
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) \
 [Analyzing voter behavior on social media during the 2020 US presidential election campaign](https://pmc.ncbi.nlm.nih.gov/articles/PMC9288921 ) \
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) \
+[Climate Change Sentiment on Twitter: An Unsolicited Public Opinion Poll](https://www.researchgate.net/publication/276296064_Climate_Change_Sentiment_on_Twitter_An_Unsolicited_Public_Opinion_Poll) \
 [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003) 
 
 ## Official Documentations
