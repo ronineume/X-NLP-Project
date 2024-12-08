@@ -6,4 +6,4 @@
 - [Word Embedding](https://github.com/ronineume/X-NLP-Project/blob/main/Codes/SemanticVec.ipynb) Visualize embeddings, you can also use it to find vector relationship
 - [Naive Bayes Classifier](https://github.com/ronineume/X-NLP-Project/blob/main/Codes/Bayes.ipynb) A Naive Bayes Classifier for text Classification
 - [Sentiment Analysis](https://github.com/ronineume/X-NLP-Project/blob/main/Codes/Sentiment.ipynb) A BERT Classifier and Results of Word Shift Graphs, need to run Naive Bayes Classifier first.
-you may prepare PyTorch first.
+you may need to prepare PyTorch.
