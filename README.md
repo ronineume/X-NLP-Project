@@ -17,7 +17,8 @@ A[Data Scrawling]--> E[Data Clean]-->F[Language Classification]-->G[Data Tokeniz
 G[Data Tokenization and Normalization]-->I[Topic Modeling]
 G[Data Tokenization and Normalization]-->J[Word2Vec]
 ```
-[Data Scrawling](https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md)
+[Data Preparation](https://github.com/ronineume/X-NLP-Project/blob/main/Data_preparation/guide.md) \
+[Codes for NLP](https://github.com/ronineume/X-NLP-Project/blob/main/Codes/guide.md)
 # NLP Packges
 TextBlob, Gensim, spaCY, Shifterator
 
