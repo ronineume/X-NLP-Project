@@ -4,6 +4,7 @@
 [![ronineume's GitHub](https://img.shields.io/badge/Ronin's%20GitHub-blue?style=flat)](https://github.com/ronineume)
 [![Park's GitHub](https://img.shields.io/badge/Park's%20GitHub-blue?style=flat)](https://github.com/PARK0301)
 [![David's GitHub](https://img.shields.io/badge/David's%20GitHub-blue?style=flat)](https://github.com/Vistor2328)
+[![Miki's GitHub](https://img.shields.io/badge/Miki's%20GitHub-blue?style=flat)](https://github.com/Miki0C)
 
 \
 We used Twitter API to scrawled 4799 tweets on the topic of US Election 2024 from X (Twitter)
