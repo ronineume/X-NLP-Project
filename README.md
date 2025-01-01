@@ -97,7 +97,7 @@ Squential Tagging \
 Topic Modeling (LDA Model)
 
 # Result
-
+[Graphs](https://github.com/ronineume/X-NLP-Project/blob/main/Results/guide.md)
 
 
 # References
